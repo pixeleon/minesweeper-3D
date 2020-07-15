@@ -1,2 +1,2 @@
 # minesweeper-3d
-Fundamentals of Programming. Semester Project. MInesweeper3D Video Game
+Fundamentals of Programming. Semester Project. MInesweeper3D
